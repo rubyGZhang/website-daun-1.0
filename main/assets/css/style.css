@@ -9908,16 +9908,7 @@ div[class*=col]:nth-child(4n+4) .single-why-two:hover .single-why-two-contents-p
 .single-team-thumb img {
   height: 100%;
   width: 100%;
-  mask-image: url(../img/single-page/team-mask.png);
-  -webkit-mask-image: url(../img/single-page/team-mask.png);
-  mask-mode: alpha;
-  -webkit-mask-mode: alpha;
-  -webkit-mask-size: contain;
-  mask-size: contain;
-  -webkit-mask-position: center top;
-  mask-position: center top;
-  -webkit-mask-repeat: no-repeat;
-  mask-repeat: no-repeat;
+  border-radius: 50%;
 }
 .single-team-contents {
   margin-top: 20px;
