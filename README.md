@@ -3,8 +3,5 @@ Header & footer
 - logo
 - title
 
-Beranda
-- gambar blog
-
 Bantuan
 - Daftar pertanyaan FAQ
