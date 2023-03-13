@@ -5,7 +5,6 @@ Header & footer
 - Siapkan halaman error
 
 Beranda
-- sobat, rekan, mitra DAUN; gambar rumah, atap merah
 - gambar blog
 
 Tentang Kami
