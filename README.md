@@ -2,6 +2,7 @@ Header & footer
 - Header di halaman home ukurannya beda (nanti baru perbaiki)
 - foto di footer
 - COMING SOON mengarahkan ke halaman lain, "halaman ERROR"
+- warna
 - Siapkan halaman error
 
 Beranda
