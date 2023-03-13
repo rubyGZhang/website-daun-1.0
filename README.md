@@ -1,4 +1,2 @@
 Header & footer
-- warna
-- logo
-- title
+- logo di footer
