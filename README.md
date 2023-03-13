@@ -1,48 +1,25 @@
-Home
--- gambar di awal (mungkin foto)
--- Semboyan (perkenalan singkat, layanan utama)
-- keunggulan kita (4 + gambar):
-	- mempermudah daur ulang sampah
-	- 
-	- 
-	- 
--- Gabung (perusahaan, tukang sampah, rumah tangga)
-- Preview Blog
-- Unduh sekarang juga + button
-	-- unduh sekarang juga
-	- button
+Header & footer
+- Header di halaman home ukurannya beda (nanti baru perbaiki)
+- foto di footer
+- COMING SOON mengarahkan ke halaman lain, "halaman ERROR"
+- Siapkan halaman error
 
-Tentang kami
-- tentang daun (teks singkat)
-- history (?)
-- prinsip kerja daun (3R)
-- profil anggota
-- galeri
-- tertarik buat gabung? ; samain dengan unduh sekarang
+Beranda
+- sobat, rekan, mitra DAUN; gambar rumah, atap merah
+- gambar blog
 
-Blog
-- listing
-- details
-
-
-Kontak kami
-- FAQ + pertanyaan
-- Kontak kami
-- Layanan pengaduan (WA)
-
-
-
+Tentang Kami
+- Prinsip kerja, ganti Icon
+- masukkan gambar galeri + keterangan
 
 Produk kami
-- halaman coming soon (?); error.html
+- ganti jadi "halaman ERROR", mungkin tambah2in
 
-Gabung jadi mitra
-- halaman coming soon
+Cari Tau
+- Listing
+	- masukkan satu-satu
+- Detail Blog
+	- buat salinan, ulangi/masukkan satu-satu
 
-- kenapa gabung dengan kami
-- perusahaan 
-- tukang sampah
-- rumah tangga
-- cari tau berita mitra terbaru
-
-
+Bantuan
+- Daftar pertanyaan FAQ
